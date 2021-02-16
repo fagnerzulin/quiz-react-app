@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./src/images/logo.png" alt="React Quiz"/>
+   <img src="./src/images/logo.PNG" alt="React Quiz"/>
 </p>
 
 </br>
