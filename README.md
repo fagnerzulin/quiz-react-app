@@ -8,7 +8,7 @@
 
 ---
 
-Projeto é um quiz, feito em ReactJS e TypeScript. Busca as trivias da API "Open Trivia DataBase" (link na sessão ferramentas).
+Projeto é um quiz, feito em ReactJS e TypeScript. Busca as trivias da API "Open Trivia DataBase" (link na sessão ferramentas). O deploy foi feito na plataforma da Vercel (link também a sessão ferramentas).
 Foi criado a partir do vídeo-tutorial "React / Typescript Tutorial - Build a Quiz App" do canal "FreeCodeCamp" (link na sessão Material Base).
 
 Para ver esse projeto funcionando: **[Click Aqui](https://quiz-react-app.vercel.app/)**
