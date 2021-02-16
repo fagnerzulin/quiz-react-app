@@ -8,7 +8,8 @@
 
 ---
 
-Projeto desenvolvido ao longo da Imersão React promovida pela Alura. Essa versão do projeto serve como um agregador de conteúdos de tecnologia publicados no YouTube.
+Projeto é um quiz, feito em ReactJS e TypeScript. Busca as trivias da API "Open Trivia DataBase" (link na sessão ferramentas).
+Foi criado a partir do vídeo-tutorial "React / Typescript Tutorial - Build a Quiz App" do canal "FreeCodeCamp" (link na sessão Material Base).
 
 ---
 
@@ -19,25 +20,18 @@ Projeto desenvolvido ao longo da Imersão React promovida pela Alura. Essa vers�
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - **[React](https://reactjs.org/)**
-- **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 - **[Styled Components](https://github.com/styled-components/styled-components)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[API Open Trivia DataBase](https://opentdb.com/api_config.php)**
 
-> Veja o arquivo [package.json](https://github.com/fagnerzulin/techflix/blob/master/package.json)
-
----
-
-### 👩‍🏫👨‍🏫 Instrutores
+> Veja o arquivo [package.json](https://github.com/fagnerzulin/quiz-react-app/blob/main/package.json)
 
 ---
 
-A seguir os instrutores que promoveram essa Imersão (com link para as respectivas contas no twitter):
+### 👩‍🏫👨‍🏫 Material Base
 
-- **[Mario Souto](https://twitter.com/omariosouto)** - Instrutor da Alura, engenheiro Nubank
+---
 
-- **[Juliana Negreiros](https://twitter.com/juunegreiros)** - Coordenadora dos cursos de front-end da Alura
-
-- **[Marco Bruno](https://twitter.com/marcobrunodev)** - Engenheiro de software na Suécia
-
-- **[Paulo Silveira](https://twitter.com/paulo_caelum)** - CEO da Alura
+Para acessar o vídeo que ensina a montar esse projeto acesse: **[React / Typescript Tutorial - Build a Quiz App](https://www.youtube.com/watch?v=F2JCjVSZlG0)**. Para conhecer a plataforma de ensino gratuito acesse **[FreeCodeCamp](https://www.freecodecamp.org/learn/)**
 
 ---
