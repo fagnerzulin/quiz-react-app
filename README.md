@@ -35,6 +35,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-Para acessar o vídeo que ensina a montar esse projeto acesse: **[React / Typescript Tutorial - Build a Quiz App](https://www.youtube.com/watch?v=F2JCjVSZlG0)**. Para conhecer a plataforma de ensino gratuito acesse **[FreeCodeCamp](https://www.freecodecamp.org/learn/)**
+Para acessar o vídeo que ensina a desenvolver esse projeto acesse: **[React / Typescript Tutorial - Build a Quiz App](https://www.youtube.com/watch?v=F2JCjVSZlG0)**. Para conhecer a plataforma de ensino gratuito acesse **[FreeCodeCamp](https://www.freecodecamp.org/learn/)**
 
 ---
